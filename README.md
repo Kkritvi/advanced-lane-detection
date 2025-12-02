@@ -1,4 +1,3 @@
-@"
 # Advanced Lane Detection (BEV + LDW + Webcam)
 
 A complete lane detection pipeline using classical computer vision techniques (no deep learning), featuring HLS color masking, ROI extraction, bird's-eye perspective transform, sliding-window lane pixel extraction, polynomial fitting, temporal smoothing, lane departure warning (LDW), and real-time webcam mode using DirectShow backend.
@@ -51,4 +50,5 @@ Suitable for robotics, CV, ECE, and autonomous driving research.
 
 ## 📜 License
 MIT License  
-"@ | Out-File -FilePath README.md -Encoding utf8
+| Out-File -FilePath README.md -Encoding utf8
+
